@@ -1,4 +1,4 @@
 # MyTiidelabRepo
-<h1 >Command for staging a change</h1>; <br> git add (adds a single file) and git add . (adds multiple files)
-<h1>Command for commiting and change</h1>; <br> git commit -m "commit message"
-<h1>Command for Pushing a commited change</h1>; <br> git push (variable name) master/main
+<h3 >Command for staging a change</h3>; <br> git add (adds a single file) and git add . (adds multiple files)
+<h3>Command for committing and change</h3>; <br> git commit -m "commit message"
+<h3>Command for Pushing a committed change</h3>; <br> git push (variable name) master
